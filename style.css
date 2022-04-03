@@ -1,0 +1,48 @@
+body{
+    direction: rtl;
+}
+.showcase{
+    color: white;
+    list-style-type: none;
+    position: absolute;
+    width: 98%;
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    background-color: #DE1A1A;
+    margin-top: 8px;
+}
+
+#od{
+    border: 1.5px solid white;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-inline-end: 20px;
+}
+
+h1{
+    font-size: 35px;
+    text-align: bold;
+}
+
+span{
+    list-style-type: none;
+    position: absolute;
+    display: flex;
+
+}
+
+#logo{
+    margin: auto;
+    display: block;
+    width: 150px;
+}
+
+#army{
+    width: 611px;
+    height: 343px;
+    display:flex;
+    margin-right: auto;
+}
+
