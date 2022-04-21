@@ -1,0 +1,75 @@
+body {
+  margin: 5%;
+  padding: 5%;
+  direction: rtl;
+}
+
+.logoone {
+  display: flex;
+  justify-content: center;
+}
+
+#logo {
+  width: 176px;
+  height: 75px;
+}
+
+.navbar {
+  color: white;
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  text-align: center;
+  height: 30px;
+  background-color: #de1a1a;
+}
+
+.mevzak {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: right;
+  background-color: rgba(171, 230, 255, 0.4);
+  height: 15vh;
+}
+
+#army {
+  width: 50%;
+  height: 70%;
+  float: left;
+}
+
+.headone {
+  font-size: 3vh;
+}
+span {
+  color: #78787b;
+  font-size: 20px;
+}
+
+#large {
+  width: 12vw;
+  height: 20.5vh;
+  float: right;
+}
+
+.allp{
+  height: 15vh;
+}
+
+.a {
+  color: white;
+  background-color: #de1a1a;
+  margin-right: 50%;
+}
+
+.blue {
+  color: white;
+  background-color: #001aff;
+  margin-right: 50%;
+}
+
+#adv {
+  width: 38vw;
+  height: 75vh;
+  transform: translate(0px, -520px);
+}
